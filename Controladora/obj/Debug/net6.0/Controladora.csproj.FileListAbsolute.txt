@@ -1,0 +1,17 @@
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Controladora\bin\Debug\net6.0\Controladora.deps.json
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Controladora\bin\Debug\net6.0\Controladora.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Controladora\bin\Debug\net6.0\Controladora.pdb
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Controladora\bin\Debug\net6.0\Entidades.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Controladora\bin\Debug\net6.0\Modelo.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Controladora\bin\Debug\net6.0\Entidades.pdb
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Controladora\bin\Debug\net6.0\Modelo.pdb
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Controladora\obj\Debug\net6.0\Controladora.csproj.AssemblyReference.cache
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Controladora\obj\Debug\net6.0\Controladora.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Controladora\obj\Debug\net6.0\Controladora.AssemblyInfoInputs.cache
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Controladora\obj\Debug\net6.0\Controladora.AssemblyInfo.cs
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Controladora\obj\Debug\net6.0\Controladora.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Controladora\obj\Debug\net6.0\Controladora.csproj.CopyComplete
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Controladora\obj\Debug\net6.0\Controladora.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Controladora\obj\Debug\net6.0\refint\Controladora.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Controladora\obj\Debug\net6.0\Controladora.pdb
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Controladora\obj\Debug\net6.0\ref\Controladora.dll

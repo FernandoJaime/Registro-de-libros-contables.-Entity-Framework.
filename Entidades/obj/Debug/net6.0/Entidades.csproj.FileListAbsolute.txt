@@ -1,0 +1,11 @@
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Entidades\bin\Debug\net6.0\Entidades.deps.json
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Entidades\bin\Debug\net6.0\Entidades.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Entidades\bin\Debug\net6.0\Entidades.pdb
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Entidades\obj\Debug\net6.0\Entidades.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Entidades\obj\Debug\net6.0\Entidades.pdb
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Entidades\obj\Debug\net6.0\ref\Entidades.dll

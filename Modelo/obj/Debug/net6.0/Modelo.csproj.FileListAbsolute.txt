@@ -1,0 +1,17 @@
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Modelo\bin\Debug\net6.0\Modelo.deps.json
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Modelo\bin\Debug\net6.0\Modelo.runtimeconfig.json
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Modelo\bin\Debug\net6.0\Modelo.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Modelo\bin\Debug\net6.0\Modelo.pdb
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Modelo\bin\Debug\net6.0\Entidades.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Modelo\bin\Debug\net6.0\Entidades.pdb
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Modelo\obj\Debug\net6.0\Modelo.csproj.AssemblyReference.cache
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Modelo\obj\Debug\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfoInputs.cache
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfo.cs
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Modelo\obj\Debug\net6.0\Modelo.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Modelo\obj\Debug\net6.0\Modelo.csproj.CopyComplete
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Modelo\obj\Debug\net6.0\Modelo.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Modelo\obj\Debug\net6.0\refint\Modelo.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Modelo\obj\Debug\net6.0\Modelo.pdb
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Modelo\obj\Debug\net6.0\Modelo.genruntimeconfig.cache
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\Parcial_2\Parcial2\Modelo\obj\Debug\net6.0\ref\Modelo.dll
